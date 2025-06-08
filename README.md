@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snahil Dasawat</h1>
+<h1 align="center">Howdy 👋, I'm Snahil Dasawat</h1>
 <h3 align="center">Not your average SOFTWARE DEV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnahil&label=Profile%20views&color=0e75b6&style=flat" alt="dsnahil" /> </p>
