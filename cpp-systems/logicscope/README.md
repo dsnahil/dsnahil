@@ -1,4 +1,4 @@
-# LogicScope — Event-Driven Digital Simulation in C++20
+# LogicScope: Event-Driven Digital Simulation in C++20
 
 LogicScope is a deterministic single-bit digital circuit simulator with four-state values (`0`, `1`, `X`, `Z`), inertial gate delays, rising-edge D flip-flops, explicit tri-state resolution, and JSON/VCD waveform export.
 

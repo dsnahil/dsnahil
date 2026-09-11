@@ -1,4 +1,4 @@
-# TimingForge — Incremental Timing Analysis in C++20
+# TimingForge: Incremental Timing Analysis in C++20
 
 TimingForge computes earliest and latest arrival times through a directed acyclic timing graph. It reports endpoint setup/hold slack and the actual paths responsible for both, supports batched delay edits, and analyzes delay scales using a bounded group of C++20 `std::jthread` workers.
 

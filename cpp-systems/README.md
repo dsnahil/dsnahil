@@ -1,6 +1,6 @@
 # C++ Systems: TimingForge & LogicScope
 
-Two independent C++20 libraries and command-line tools for exploring electronic-design software internals. Authored as personal portfolio projects with AI-assisted implementation and explicit correctness checks. No Synopsys source code, internal data, or proprietary benchmarks are included.
+Two independent C++20 libraries and command-line tools for exploring electronic-design software internals. Personal portfolio projects with explicit correctness checks. No Synopsys source code, internal data, or proprietary benchmarks are included.
 
 | Project | Engineering focus | Supporting stack |
 | --- | --- | --- |
@@ -70,6 +70,4 @@ The build stage executes the test suite; the runtime uses an unprivileged user. 
 ## Read the engineering decisions
 
 - [Architecture and tradeoffs](docs/ARCHITECTURE.md)
-- [Interview walkthrough and exercises](docs/INTERVIEW.md)
-- [Resume descriptions](docs/RESUME.md)
 - [License](LICENSE)
