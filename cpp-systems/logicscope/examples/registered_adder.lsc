@@ -1,0 +1,16 @@
+input a
+input b
+input cin
+input clk
+wire axb
+wire sum
+wire ab
+wire xc
+wire carry
+wire q
+gate xor_ab XOR axb 1 a b
+gate xor_sum XOR sum 1 axb cin
+gate and_ab AND ab 1 a b
+gate and_xc AND xc 1 axb cin
+gate or_carry OR carry 1 ab xc
+gate result_reg DFF q 1 sum clk

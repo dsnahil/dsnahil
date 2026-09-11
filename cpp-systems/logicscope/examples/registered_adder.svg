@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="630" viewBox="0 0 1080 630">
+<rect width="100%" height="100%" rx="16" fill="#101725"/>
+<g font-family="monospace" fill="#dce7f6">
+<text x="32" y="38" font-size="24" font-weight="bold">LogicScope / waveform trace</text>
+<text x="32" y="63" font-size="13" fill="#94a8c4">Four-state logic · physical time in ns · same-time deltas may overlap</text>
+<path d="M120.00 90 V595" stroke="#253044"/>
+<text x="120.00" y="84" font-size="12">0</text>
+<path d="M222.22 90 V595" stroke="#253044"/>
+<text x="222.22" y="84" font-size="12">4</text>
+<path d="M324.44 90 V595" stroke="#253044"/>
+<text x="324.44" y="84" font-size="12">8</text>
+<path d="M426.67 90 V595" stroke="#253044"/>
+<text x="426.67" y="84" font-size="12">12</text>
+<path d="M528.89 90 V595" stroke="#253044"/>
+<text x="528.89" y="84" font-size="12">16</text>
+<path d="M631.11 90 V595" stroke="#253044"/>
+<text x="631.11" y="84" font-size="12">20</text>
+<path d="M733.33 90 V595" stroke="#253044"/>
+<text x="733.33" y="84" font-size="12">24</text>
+<path d="M835.56 90 V595" stroke="#253044"/>
+<text x="835.56" y="84" font-size="12">28</text>
+<path d="M937.78 90 V595" stroke="#253044"/>
+<text x="937.78" y="84" font-size="12">32</text>
+<path d="M1040.00 90 V595" stroke="#253044"/>
+<text x="1040.00" y="84" font-size="12">36</text>
+<text x="20" y="123" font-size="15">a</text>
+<path d="M120.00 119 H120.00" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M120.00 106 H758.89" stroke="#62dbc2" stroke-width="2"/>
+<path d="M758.89 132 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M758.89 106 V132" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="171" font-size="15">b</text>
+<path d="M120.00 167 H120.00" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M120.00 180 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="219" font-size="15">cin</text>
+<path d="M120.00 215 H120.00" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M120.00 202 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="267" font-size="15">clk</text>
+<path d="M120.00 263 H120.00" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M120.00 276 H375.56" stroke="#62dbc2" stroke-width="2"/>
+<path d="M375.56 250 H631.11" stroke="#62dbc2" stroke-width="2"/>
+<path d="M375.56 250 V276" stroke="#62dbc2" stroke-width="2"/>
+<path d="M631.11 276 H886.67" stroke="#62dbc2" stroke-width="2"/>
+<path d="M631.11 250 V276" stroke="#62dbc2" stroke-width="2"/>
+<path d="M886.67 250 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M886.67 250 V276" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="315" font-size="15">axb</text>
+<path d="M120.00 311 H145.56" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="132.78" y="305" fill="#f7b76a" font-size="12">X</text>
+<path d="M145.56 298 H784.44" stroke="#62dbc2" stroke-width="2"/>
+<path d="M784.44 324 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M784.44 298 V324" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="363" font-size="15">sum</text>
+<path d="M120.00 359 H171.11" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="145.56" y="353" fill="#f7b76a" font-size="12">X</text>
+<path d="M171.11 372 H810.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M810.00 346 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M810.00 346 V372" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="411" font-size="15">ab</text>
+<path d="M120.00 407 H145.56" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="132.78" y="401" fill="#f7b76a" font-size="12">X</text>
+<path d="M145.56 420 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="459" font-size="15">xc</text>
+<path d="M120.00 455 H171.11" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="145.56" y="449" fill="#f7b76a" font-size="12">X</text>
+<path d="M171.11 442 H810.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M810.00 468 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M810.00 442 V468" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="507" font-size="15">carry</text>
+<path d="M120.00 503 H196.67" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="158.33" y="497" fill="#f7b76a" font-size="12">X</text>
+<path d="M196.67 490 H835.56" stroke="#62dbc2" stroke-width="2"/>
+<path d="M835.56 516 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M835.56 490 V516" stroke="#62dbc2" stroke-width="2"/>
+<text x="20" y="555" font-size="15">q</text>
+<path d="M120.00 551 H401.11" stroke="#f7b76a" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="260.56" y="545" fill="#f7b76a" font-size="12">X</text>
+<path d="M401.11 564 H912.22" stroke="#62dbc2" stroke-width="2"/>
+<path d="M912.22 538 H1040.00" stroke="#62dbc2" stroke-width="2"/>
+<path d="M912.22 538 V564" stroke="#62dbc2" stroke-width="2"/>
+</g></svg>

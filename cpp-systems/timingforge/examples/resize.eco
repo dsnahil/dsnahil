@@ -1,0 +1,2 @@
+# Arc IDs are zero-based declaration order; replace absolute MIN/MAX delay.
+set 2 0.3 0.8
