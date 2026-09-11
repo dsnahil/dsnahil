@@ -10,6 +10,6 @@ Local validation on 2026-09-10:
 - Both documented examples executed; TimingForge baseline/ECO values and LogicScope registered-adder behavior matched the READMEs.
 - Five Release benchmark samples and one excluded warm-up were recorded.
 
-GitHub CI additionally configures GCC Release, Clang Release, Clang ASan/UBSan, and a Docker build/test job. CI outcomes are reported by GitHub, separately from the above local results. A workflow file is not proof that those jobs completed.
+GitHub CI completed successfully on 2026-09-11 for commit `b033d09bea429dde3b93c01f80f0141d4b7dc336`: GCC Release, Clang Release, Clang AddressSanitizer/UndefinedBehaviorSanitizer with normal leak-detection settings, and the Docker build/test plus runtime smoke checks all passed. [Inspect the completed run](https://github.com/dsnahil/dsnahil/actions/runs/34641962665). These are executed CI results, separate from the local container's leak-detection limitation.
 
 Not measured or certified: statement/branch coverage, TSan execution, worst-case performance, platform portability beyond executed builds, HDL language compliance, or production readiness.
