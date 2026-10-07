@@ -7,18 +7,6 @@
 
 - 📫 How to reach me **dsnahil@gmail.com**
 
-
-## Featured C++20 projects
-
-Two personal systems projects, built with C++20 and supported by Python reference tests, CMake/CTest, sanitizer configurations, and Docker packaging.
-
-| Project | What it demonstrates |
-| --- | --- |
-| [TimingForge](cpp-systems/timingforge/) | CSR timing graphs, critical paths, setup/hold analysis, transactional delay edits, and parallel corner workers. Validated on 120 randomized DAGs. |
-| [LogicScope](cpp-systems/logicscope/) | Four-state digital logic, deterministic event scheduling, inertial cancellation, flip-flops, and VCD waveforms. Checked against 320 adder vectors. |
-
-[Build and run](cpp-systems/) · [Recorded benchmarks](cpp-systems/benchmarks/) · [Architecture](cpp-systems/docs/ARCHITECTURE.md)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snahild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snahild" height="30" width="40" /></a>
